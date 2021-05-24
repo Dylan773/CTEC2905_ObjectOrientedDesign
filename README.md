@@ -1,4 +1,4 @@
-# CTEC2905_ObjectOrientedDesign
+# CTEC2905_ObjectOrientedDesign Project
 
 Two university projects that were initially stored locally. I have decided to store these projects remotely as I would like to improve my version control skills and knowledge. Whilst strengthening my portfolio.
 
